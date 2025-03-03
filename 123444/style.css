@@ -1,0 +1,39 @@
+.container {
+    width: 300px;
+    height: 350px;
+    background-color: rgba(1, 196, 255, 0.806);
+    border-radius: 10px;
+    position: relative;
+    top: 200px;
+    left: 40%;
+}
+
+.container button {
+    position: relative;
+    top: 270px;
+    left: 117px;
+    color: white;
+    padding: 10px 20px;
+    background-color: rgb(255, 0, 208);
+    border-radius: 5px 5px;
+}
+.in1{
+position: relative;
+top: 175px;
+right: 5px;
+
+}
+.in2{
+    position: relative;
+    top:175px;
+    left: 76px;
+}
+
+
+
+.container h1{
+    position: relative;
+    left: 40px;
+}
+
+

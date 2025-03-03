@@ -1,0 +1,27 @@
+.h11{
+    color: red;
+    background-color: black;
+    border: solid green 5.3px;
+    text-align: center;
+    border-radius: 17.2px;
+}
+.daleko{
+    text-align: center;
+    background-color: red;
+
+}
+.loremm{
+    background-color: black;
+    color: yellow;
+    text-align: center;
+}
+ol{
+    list-style: none;
+}
+#text{
+    background-color: aqua;
+    color: red;
+    text-decoration:underline;
+    text-align: center;
+    text-transform: capitalize;
+}

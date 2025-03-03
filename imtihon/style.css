@@ -1,0 +1,48 @@
+h1{
+    background-color: aquamarine;
+    border-radius: 20px;
+    border: 2px solid red;
+    text-align: center;
+}
+.hayvonlar{
+    color: red;
+}
+ h2, h3, h4, h5{
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+p b {
+    color: green;
+}
+button{
+    background-color: powderblue;
+    width: 150px;
+    height: 35px;
+    border: 1px solid transparent;
+
+}
+table{
+    border-collapse: collapse;
+        width: 100%;}
+th, td{
+    border: 1px solid #fff;
+    text-align: center;
+    padding: 5px;   
+    color: #fff;
+}
+    
+    .hayvon{
+        background-color: green;
+    }
+    .fakt{
+        background-color: blue;
+    }
+    .qizil{
+        background-color: red;
+    }
+    .qora{
+        background-color: black;
+    }
+    
+

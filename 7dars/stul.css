@@ -1,0 +1,20 @@
+.o1{
+    color: red;
+    background-color: black;
+    border: solid blue 1px;
+    border-radius: 15px;
+    text-align: center;
+}
+.o2{
+    background-color: yellow;
+    color: black;
+    border: solid red 1px;
+}
+.home{
+    background-color: red;
+    border: 15px 0 15px;
+}
+.hh{
+    display: flex;
+    justify-content:left;
+}

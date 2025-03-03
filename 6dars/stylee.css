@@ -1,0 +1,19 @@
+.text {
+color: red;
+text-align: center;
+background-color: aqua;
+border-radius: 0 20px 0 20px;
+
+
+}
+.p1{
+    color: yellow;
+    background-color: black;
+    text-align: center;
+    border: 2.5px solid red;
+    border-radius: 11.5px;
+}
+.p2{
+
+}
+    

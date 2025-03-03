@@ -1,0 +1,51 @@
+th, td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+
+}
+h1{
+    background-color: aqua;
+    text-align: center;
+    
+}
+h1{
+    margin-bottom: 0;
+}
+th{
+    background-color: yellow;
+    
+
+}
+.idd{
+    
+}
+td{
+    background-color: red;
+    color: white;
+}
+.bir{
+    background-color: white; 
+    color: black; 
+}
+.ikki{
+    background-color: white;
+    color: black; 
+}
+.uch{
+    background-color: white;
+    color: black; 
+}
+#qqq{
+background-color: green;
+}
+#www{
+    background-color: green;
+}
+#eee{
+    background-color: green;
+}
